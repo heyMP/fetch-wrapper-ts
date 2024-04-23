@@ -1,0 +1,21 @@
+{
+  "name": "effect-ts-demo",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "lit": "^3.1.2",
+    "wretch": "^2.8.1",
+    "zod": "^3.22.5"
+  },
+  "devDependencies": {
+    "http-proxy": "^1.18.1",
+    "typescript": "^5.2.2",
+    "vite": "^5.2.0"
+  }
+}
